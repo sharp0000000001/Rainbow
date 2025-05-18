@@ -6,6 +6,6 @@ Adjust the directory includes to account for where the GLFW and GLEW are.
 Adjust for where GRAPHICS.H is.
 Add to the project: GLEW.LIB, GLFW.lib and OPENGL32.lib.
 
-In addition add GLEW and GLFW with Opengl32 to the C:\windows\system32 directory.
+In addition add GLEW and GLFW with Opengl32 (dll's) to the C:\windows\system32 directory.
 
 Thank you
